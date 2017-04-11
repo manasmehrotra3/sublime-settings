@@ -5,6 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
+		"Angular 2 Snippets (John Papa)",
+		"Angular2 HTML Syntax",
 		"AngularJS",
 		"Auto Semi-Colon",
 		"AutoFileName",
@@ -18,10 +21,12 @@
 		"Dark Pastel Color Scheme",
 		"DocBlockr",
 		"Edit Command Palette",
+		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"Google Search",
 		"Gulp",
+		"Highlight Dodgy Chars",
 		"HTML5",
 		"HTMLBeautify",
 		"Jasmine JS",
@@ -29,6 +34,7 @@
 		"Javascript Beautify",
 		"JSHint",
 		"JsonTree",
+		"Notes",
 		"Origami",
 		"Package Control",
 		"PlainTasks",
@@ -46,6 +52,8 @@
 		"Theme - Seti Monokai",
 		"Theme - Soda",
 		"Themr",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TypeScript",
+		"TypescriptCompletion"
 	]
 }
